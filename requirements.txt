@@ -1,6 +1,6 @@
 Flask == 1.0
 scipy == 1.2.0
-PIL
+
 tensorflow
 gevent
 gunicorn
