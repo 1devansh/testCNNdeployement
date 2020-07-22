@@ -1,7 +1,8 @@
 Flask == 1.0
 scipy == 1.2.0
 
-tensorflow
+
+https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow-0.11.0-cp27-none-linux_x86_64.whl
 gevent
 gunicorn
 keras
